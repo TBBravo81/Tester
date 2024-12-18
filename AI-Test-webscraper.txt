@@ -1,1 +1,17 @@
-This is a test.
+Webscraper
+
+Step 1 Launch web scraper
+1b Install requisite python packages to load web browser automatically.
+
+Step 2  Navigate to "theverge.com"
+2b List other potential sites
+2c Create a list of  links to navigate to secondarily
+
+Step 3 Grab the first header section ( hi region ) from the site.
+3b Grab teh URL text fields for all lines on page
+
+Step 4 Store its contents in a txt file.
+
+Step 5 A tall glass of orange juice
+
+Step 6 Drink it
